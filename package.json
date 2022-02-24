@@ -1,0 +1,14 @@
+{
+  "name": "team",
+  "version": "1.0.0",
+  "description": "This is developer team member profile data.",
+  "main": "index.js",
+  "scripts": {
+    "js": "json-server --watch db.json --port 1010"
+  },
+  "author": "Imran",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
