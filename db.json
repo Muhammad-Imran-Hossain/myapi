@@ -39,34 +39,34 @@
         {
             "id"        : 1,
             "name"      : "Pant",
-            "price"     : 500,
+            "price"     : 1500,
             "category"  : "Men's Ware",
             "details"   : "  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, possimus? Error consequuntur eveniet modi eos. Vel eligendi consectetur fugiat necessitatibus, id eum sed suscipit totam vitae recusandae, earum provident officiis!",
             "photo"     : "https://5.imimg.com/data5/TF/IW/MY-17554435/men-casual-pant-500x500.jpg"
         },
         {
             "id"        : 2,
-            "name"      : "Pant",
-            "price"     : 500,
+            "name"      : "Panjabi",
+            "price"     : 2500,
             "category"  : "Men's Ware",
             "details"   : "  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, possimus? Error consequuntur eveniet modi eos. Vel eligendi consectetur fugiat necessitatibus, id eum sed suscipit totam vitae recusandae, earum provident officiis!",
-            "photo"     : "https://5.imimg.com/data5/TF/IW/MY-17554435/men-casual-pant-500x500.jpg"
+            "photo"     : "https://i.pinimg.com/originals/77/d0/0b/77d00b7287fcaf8b90a649a7d54870bd.jpg"
         },
         {
             "id"        : 3,
-            "name"      : "Pant",
-            "price"     : 500,
-            "category"  : "Men's Ware",
+            "name"      : "Borkha",
+            "price"     : 5000,
+            "category"  : "Women's Ware",
             "details"   : "  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, possimus? Error consequuntur eveniet modi eos. Vel eligendi consectetur fugiat necessitatibus, id eum sed suscipit totam vitae recusandae, earum provident officiis!",
-            "photo"     : "https://5.imimg.com/data5/TF/IW/MY-17554435/men-casual-pant-500x500.jpg"
+            "photo"     : "https://i.pinimg.com/originals/20/2e/fb/202efb33a8839665513ccfecfdd82f9d.jpg"
         },
         {
             "id"        : 4,
-            "name"      : "Pant",
-            "price"     : 500,
-            "category"  : "Men's Ware",
+            "name"      : "Hijab",
+            "price"     : 1000,
+            "category"  : "Women's Ware",
             "details"   : "  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, possimus? Error consequuntur eveniet modi eos. Vel eligendi consectetur fugiat necessitatibus, id eum sed suscipit totam vitae recusandae, earum provident officiis!",
-            "photo"     : "https://5.imimg.com/data5/TF/IW/MY-17554435/men-casual-pant-500x500.jpg"
+            "photo"     : "https://images.pexels.com/photos/2253415/pexels-photo-2253415.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
         }
 
         
