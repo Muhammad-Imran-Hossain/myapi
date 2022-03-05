@@ -1,143 +1,168 @@
 {
-    "devs"  : [
-        {
-            "id"        : 1,
-            "name"      : "Imran Hossain",
-            "age"       : 25,
-            "skill"     : "React Developer",
-            "location"  : "Uttara",
-            "photo"     : "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/267522714_3080798165530802_5254473772724660641_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeG7JdyokynrISdqyTPdERpK70gKDD5RDWDvSAoMPlENYNLVhHHx9MiyCjvQ51gxt20ydvpTAk1TFxSYHluBHJVD&_nc_ohc=zY6Z_wCmyb8AX9AgihS&_nc_ht=scontent.fdac7-1.fna&oh=00_AT8SP0zLm876Lu9pZErToXhmtRMXnmXneJGoWkXnm4t2ig&oe=621C22A0"
-        },
+  "devs": [
+    {
+      "id": 1,
+      "name": "Imran Hossain",
+      "age": 25,
+      "skill": "React Developer",
+      "location": "Uttara",
+      "photo": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/267522714_3080798165530802_5254473772724660641_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeG7JdyokynrISdqyTPdERpK70gKDD5RDWDvSAoMPlENYNLVhHHx9MiyCjvQ51gxt20ydvpTAk1TFxSYHluBHJVD&_nc_ohc=1BcPJOOiUNAAX8EHmKe&_nc_ht=scontent.fdac7-1.fna&oh=00_AT_pstt-KEl6yA6LPQoTgknmZRGAHLyRy69OVKFJOJPpzg&oe=62280020"
+    },
+    {
+      "id": 2,
+      "name": "Khan Junaid",
+      "age": 27,
+      "skill": "Python Developer",
+      "location": "Dhanmondi",
+      "photo": "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/81235788_2536401299971450_4392456667002830848_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGQhIAUCiJmfYIotY9TgOgKvJC8quy4WDO8kLyq7LhYM63-afr_0h53G9J1R5PVAQ8l4-c4A-0wBF0_0YkufABj&_nc_ohc=Zxmkh5PE7MUAX8toSw-&_nc_ht=scontent.fdac7-1.fna&oh=00_AT8DDLGN0g74eWR_vt8u-LekDfYePzgYNf05ykutNi4cVw&oe=623E2D1E"
+    },
+    {
+      "id": 3,
+      "name": "Sazzad Hossain",
+      "age": 30,
+      "skill": "WordPress Developer",
+      "location": "Gazipur",
+      "photo": "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/110771551_2910661795724011_3710555052466402710_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEUrmZ_WV-QzJu1Vl6gvjEFqWffzJCUSaepZ9_MkJRJpwS3L0kea1lJWrIsGuVIJybsvEfTc96Rvu9cnLo180CS&_nc_ohc=DHB87pP40EcAX-auZn6&_nc_ht=scontent.fdac7-1.fna&oh=00_AT9NLzoEvR50TNTkPOqF15ybvRxogkcnabqAbh7HBiulVQ&oe=623CEA5E"
+    },
+    {
+      "id": 4,
+      "name": "Ashikur Rahman",
+      "age": 26,
+      "skill": "Java Developer",
+      "location": "Muhammadpur",
+      "photo": "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/53040357_2159381427462741_3045592469581332480_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeEI7uBKBAmMp8AIvrXBIS9n2Q2lPBGIKbbZDaU8EYgptvJDIq1tDyvVWKKAQGA19IG2-VqGYWv_WSolavvzW6eX&_nc_ohc=zJm-1NpHSNkAX_NUFjt&_nc_ht=scontent.fdac7-1.fna&oh=00_AT_hRpaiVT_VhJFwEJr5hePbcZX4cBuHa3xGe6ZMUp8KgA&oe=623DE2A3"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Pant",
+      "price": 1500,
+      "category": "Men's Ware",
+      "details": "  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, possimus? Error consequuntur eveniet modi eos. Vel eligendi consectetur fugiat necessitatibus, id eum sed suscipit totam vitae recusandae, earum provident officiis!",
+      "photo": "https://5.imimg.com/data5/TF/IW/MY-17554435/men-casual-pant-500x500.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Panjabi",
+      "price": 2500,
+      "category": "Men's Ware",
+      "details": "  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, possimus? Error consequuntur eveniet modi eos. Vel eligendi consectetur fugiat necessitatibus, id eum sed suscipit totam vitae recusandae, earum provident officiis!",
+      "photo": "https://i.pinimg.com/originals/77/d0/0b/77d00b7287fcaf8b90a649a7d54870bd.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Borkha",
+      "price": 5000,
+      "category": "Women's Ware",
+      "details": "  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, possimus? Error consequuntur eveniet modi eos. Vel eligendi consectetur fugiat necessitatibus, id eum sed suscipit totam vitae recusandae, earum provident officiis!",
+      "photo": "https://i.pinimg.com/originals/20/2e/fb/202efb33a8839665513ccfecfdd82f9d.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Hijab",
+      "price": 1000,
+      "category": "Women's Ware",
+      "details": "  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, possimus? Error consequuntur eveniet modi eos. Vel eligendi consectetur fugiat necessitatibus, id eum sed suscipit totam vitae recusandae, earum provident officiis!",
+      "photo": "https://images.pexels.com/photos/2253415/pexels-photo-2253415.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "Imran Hossain",
+      "age": 15,
+      "class": 9,
+      "location": "Uttara",
+      "mother": "Khursheda Begum",
+      "father": "S M Selim",
+      "ban": 85,
+      "eng": 82,
+      "math": 90,
+      "phy": 80,
+      "che": 75,
+      "bio": 82,
+      "photo": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/267522714_3080798165530802_5254473772724660641_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeG7JdyokynrISdqyTPdERpK70gKDD5RDWDvSAoMPlENYNLVhHHx9MiyCjvQ51gxt20ydvpTAk1TFxSYHluBHJVD&_nc_ohc=1BcPJOOiUNAAX8EHmKe&_nc_ht=scontent.fdac7-1.fna&oh=00_AT_pstt-KEl6yA6LPQoTgknmZRGAHLyRy69OVKFJOJPpzg&oe=62280020"
+    },
+    {
+      "id": 2,
+      "name": "Khan Junaid",
+      "age": 17,
+      "class": 9,
+      "location": "Dhanmondi",
+      "mother": "Fatema Begum",
+      "father": "Abul Kashem",
+      "ban": 85,
+      "eng": 82,
+      "math": 90,
+      "phy": 80,
+      "che": 75,
+      "bio": 82,
+      "photo": "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/81235788_2536401299971450_4392456667002830848_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGQhIAUCiJmfYIotY9TgOgKvJC8quy4WDO8kLyq7LhYM63-afr_0h53G9J1R5PVAQ8l4-c4A-0wBF0_0YkufABj&_nc_ohc=Zxmkh5PE7MUAX8toSw-&_nc_ht=scontent.fdac7-1.fna&oh=00_AT8DDLGN0g74eWR_vt8u-LekDfYePzgYNf05ykutNi4cVw&oe=623E2D1E"
+    },
+    {
+      "id": 3,
+      "name": "Sazzad Hossain",
+      "age": 18,
+      "class": 9,
+      "location": "Gazipur",
+      "mother": "Saleha Begum",
+      "father": "NeyamatUllah",
+      "ban": 85,
+      "eng": 82,
+      "math": 90,
+      "phy": 80,
+      "che": 75,
+      "bio": 82,
+      "photo": "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/110771551_2910661795724011_3710555052466402710_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEUrmZ_WV-QzJu1Vl6gvjEFqWffzJCUSaepZ9_MkJRJpwS3L0kea1lJWrIsGuVIJybsvEfTc96Rvu9cnLo180CS&_nc_ohc=DHB87pP40EcAX-auZn6&_nc_ht=scontent.fdac7-1.fna&oh=00_AT9NLzoEvR50TNTkPOqF15ybvRxogkcnabqAbh7HBiulVQ&oe=623CEA5E"
+    },
+    {
+      "id": 4,
+      "name": "Ashikur Rahman",
+      "age": 16,
+      "class": 9,
+      "location": "Muhammadpur",
+      "mother": "Ayesha Akter",
+      "father": "Musaddek Hossen",
+      "ban": 85,
+      "eng": 82,
+      "math": 90,
+      "phy": 80,
+      "che": 75,
+      "bio": 82,
+      "photo": "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/53040357_2159381427462741_3045592469581332480_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeEI7uBKBAmMp8AIvrXBIS9n2Q2lPBGIKbbZDaU8EYgptvJDIq1tDyvVWKKAQGA19IG2-VqGYWv_WSolavvzW6eX&_nc_ohc=zJm-1NpHSNkAX_NUFjt&_nc_ht=scontent.fdac7-1.fna&oh=00_AT_hRpaiVT_VhJFwEJr5hePbcZX4cBuHa3xGe6ZMUp8KgA&oe=623DE2A3"
+    }
+  ],
 
-        {
-            "id"        : 2,
-            "name"      : "Khan Junaid",
-            "age"       : 27,
-            "skill"     : "Python Developer",
-            "location"  : "Dhanmondi",
-            "photo"     : "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/81235788_2536401299971450_4392456667002830848_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGQhIAUCiJmfYIotY9TgOgKvJC8quy4WDO8kLyq7LhYM63-afr_0h53G9J1R5PVAQ8l4-c4A-0wBF0_0YkufABj&_nc_ohc=Zxmkh5PE7MUAX8toSw-&_nc_ht=scontent.fdac7-1.fna&oh=00_AT8DDLGN0g74eWR_vt8u-LekDfYePzgYNf05ykutNi4cVw&oe=623E2D1E"
-        },
-        {
-            "id"        : 3,
-            "name"      : "Sazzad Hossain",
-            "age"       : 30,
-            "skill"     : "WordPress Developer",
-            "location"  : "Gazipur",
-            "photo"     : "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/110771551_2910661795724011_3710555052466402710_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEUrmZ_WV-QzJu1Vl6gvjEFqWffzJCUSaepZ9_MkJRJpwS3L0kea1lJWrIsGuVIJybsvEfTc96Rvu9cnLo180CS&_nc_ohc=DHB87pP40EcAX-auZn6&_nc_ht=scontent.fdac7-1.fna&oh=00_AT9NLzoEvR50TNTkPOqF15ybvRxogkcnabqAbh7HBiulVQ&oe=623CEA5E"
-        },
-        {
-            "id"        : 4,
-            "name"      : "Ashikur Rahman",
-            "age"       : 26,
-            "skill"     : "Java Developer",
-            "location"  : "Muhammadpur",
-            "photo"     : "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/53040357_2159381427462741_3045592469581332480_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeEI7uBKBAmMp8AIvrXBIS9n2Q2lPBGIKbbZDaU8EYgptvJDIq1tDyvVWKKAQGA19IG2-VqGYWv_WSolavvzW6eX&_nc_ohc=zJm-1NpHSNkAX_NUFjt&_nc_ht=scontent.fdac7-1.fna&oh=00_AT_hRpaiVT_VhJFwEJr5hePbcZX4cBuHa3xGe6ZMUp8KgA&oe=623DE2A3"
-        }
-    ],
+  "skill" : [
+    {
+      "id"  : 1,
+      "name"  : "MERN Stack"
+    },
+    {
+      "id"  : 2,
+      "name"  : "PHP"
+    },
+    {
+      "id"  : 3,
+      "name"  : "Java"
+    },
+    {
+      "id"  : 4,
+      "name"  : "WprdPress"
+    },
+    {
+      "id"  : 5,
+      "name"  : "Python"
+    },
+    {
+      "id"  : 6,
+      "name"  : "C++"
+    },
+    {
+      "id"  : 7,
+      "name"  : "React JS"
+    }
 
-    "products"  : [
-        {
-            "id"        : 1,
-            "name"      : "Pant",
-            "price"     : 1500,
-            "category"  : "Men's Ware",
-            "details"   : "  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, possimus? Error consequuntur eveniet modi eos. Vel eligendi consectetur fugiat necessitatibus, id eum sed suscipit totam vitae recusandae, earum provident officiis!",
-            "photo"     : "https://5.imimg.com/data5/TF/IW/MY-17554435/men-casual-pant-500x500.jpg"
-        },
-        {
-            "id"        : 2,
-            "name"      : "Panjabi",
-            "price"     : 2500,
-            "category"  : "Men's Ware",
-            "details"   : "  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, possimus? Error consequuntur eveniet modi eos. Vel eligendi consectetur fugiat necessitatibus, id eum sed suscipit totam vitae recusandae, earum provident officiis!",
-            "photo"     : "https://i.pinimg.com/originals/77/d0/0b/77d00b7287fcaf8b90a649a7d54870bd.jpg"
-        },
-        {
-            "id"        : 3,
-            "name"      : "Borkha",
-            "price"     : 5000,
-            "category"  : "Women's Ware",
-            "details"   : "  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, possimus? Error consequuntur eveniet modi eos. Vel eligendi consectetur fugiat necessitatibus, id eum sed suscipit totam vitae recusandae, earum provident officiis!",
-            "photo"     : "https://i.pinimg.com/originals/20/2e/fb/202efb33a8839665513ccfecfdd82f9d.jpg"
-        },
-        {
-            "id"        : 4,
-            "name"      : "Hijab",
-            "price"     : 1000,
-            "category"  : "Women's Ware",
-            "details"   : "  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, possimus? Error consequuntur eveniet modi eos. Vel eligendi consectetur fugiat necessitatibus, id eum sed suscipit totam vitae recusandae, earum provident officiis!",
-            "photo"     : "https://images.pexels.com/photos/2253415/pexels-photo-2253415.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-        }
-
-        
-    ],
-
-    "students"  : [
-        {
-            "id"        : 1,
-            "name"      : "Imran Hossain",
-            "age"       : 15,
-            "class"     : 9,
-            "location"  : "Uttara",
-            "mother"    : "Khursheda Begum",
-            "father"    : "S M Selim",
-            "ban"       : 85,
-            "eng"       : 82,
-            "math"      : 90,
-            "phy"       : 80,
-            "che"       : 75,
-            "bio"       : 82,
-            "photo"     : "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/267522714_3080798165530802_5254473772724660641_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeG7JdyokynrISdqyTPdERpK70gKDD5RDWDvSAoMPlENYNLVhHHx9MiyCjvQ51gxt20ydvpTAk1TFxSYHluBHJVD&_nc_ohc=zY6Z_wCmyb8AX9AgihS&_nc_ht=scontent.fdac7-1.fna&oh=00_AT8SP0zLm876Lu9pZErToXhmtRMXnmXneJGoWkXnm4t2ig&oe=621C22A0"
-        },
-
-        {
-            "id"        : 2,
-            "name"      : "Khan Junaid",
-            "age"       : 17,
-            "class"     : 9,
-            "location"  : "Dhanmondi",
-            "mother"    : "Fatema Begum",
-            "father"    : "Abul Kashem",
-            "ban"       : 85,
-            "eng"       : 82,
-            "math"      : 90,
-            "phy"       : 80,
-            "che"       : 75,
-            "bio"       : 82,
-            "photo"     : "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/81235788_2536401299971450_4392456667002830848_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGQhIAUCiJmfYIotY9TgOgKvJC8quy4WDO8kLyq7LhYM63-afr_0h53G9J1R5PVAQ8l4-c4A-0wBF0_0YkufABj&_nc_ohc=Zxmkh5PE7MUAX8toSw-&_nc_ht=scontent.fdac7-1.fna&oh=00_AT8DDLGN0g74eWR_vt8u-LekDfYePzgYNf05ykutNi4cVw&oe=623E2D1E"
-        },
-        {
-            "id"        : 3,
-            "name"      : "Sazzad Hossain",
-            "age"       : 18,
-            "class"     : 9,
-            "location"  : "Gazipur",
-            "mother"    : "Saleha Begum",
-            "father"    : "NeyamatUllah",
-            "ban"       : 85,
-            "eng"       : 82,
-            "math"      : 90,
-            "phy"       : 80,
-            "che"       : 75,
-            "bio"       : 82,
-            "photo"     : "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/110771551_2910661795724011_3710555052466402710_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEUrmZ_WV-QzJu1Vl6gvjEFqWffzJCUSaepZ9_MkJRJpwS3L0kea1lJWrIsGuVIJybsvEfTc96Rvu9cnLo180CS&_nc_ohc=DHB87pP40EcAX-auZn6&_nc_ht=scontent.fdac7-1.fna&oh=00_AT9NLzoEvR50TNTkPOqF15ybvRxogkcnabqAbh7HBiulVQ&oe=623CEA5E"
-        },
-        {
-            "id"        : 4,
-            "name"      : "Ashikur Rahman",
-            "age"       : 16,
-            "class"     : 9,
-            "location"  : "Muhammadpur",
-            "mother"    : "Ayesha Akter",
-            "father"    : "Musaddek Hossen",
-            "ban"       : 85,
-            "eng"       : 82,
-            "math"      : 90,
-            "phy"       : 80,
-            "che"       : 75,
-            "bio"       : 82,
-            "photo"     : "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/53040357_2159381427462741_3045592469581332480_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeEI7uBKBAmMp8AIvrXBIS9n2Q2lPBGIKbbZDaU8EYgptvJDIq1tDyvVWKKAQGA19IG2-VqGYWv_WSolavvzW6eX&_nc_ohc=zJm-1NpHSNkAX_NUFjt&_nc_ht=scontent.fdac7-1.fna&oh=00_AT_hRpaiVT_VhJFwEJr5hePbcZX4cBuHa3xGe6ZMUp8KgA&oe=623DE2A3"
-        }
-    ]
+  ]
 }
-
